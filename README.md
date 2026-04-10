@@ -2,7 +2,7 @@
 
 **Power BI | RFM Analysis | Business Insights & Actionable Recommendations**
 
-[Sales Dashboard Overview](link)
+[Sales Dashboard Overview](https://github.com/DuongKhonBao/global-retail-sales-dashboard/raw/main/Overview.png)
 
 ### Executive Summary
 This Power BI dashboard analyzes **$55.76M** in global retail sales data for a multi-national company specializing in electronics, home appliances, cameras, cell phones, and entertainment products.  
@@ -101,6 +101,8 @@ These issues risk continued revenue loss and reduced market competitiveness if n
 - **Data Transformation**: Power Query
 - **Analysis**: RFM Segmentation
 - **Version Control**: GitHub
+
+**Full Dashboard**: [Click here to view dashboard]()  
 
 ---
 
