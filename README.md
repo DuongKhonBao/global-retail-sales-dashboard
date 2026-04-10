@@ -102,7 +102,7 @@ These issues risk continued revenue loss and reduced market competitiveness if n
 - **Analysis**: RFM Segmentation
 - **Version Control**: GitHub
 
-**Full Dashboard**: [Click here to view dashboard]()  
+**Full Dashboard**: [Click here to view dashboard](https://github.com/DuongKhonBao/global-retail-sales-dashboard/raw/main/Full%20Dashboard.pdf)  
 
 ---
 
